@@ -1,7 +1,5 @@
 package mathsFunctions;
 
-import javax.security.auth.Subject;
-
 public class mainMathsFuncs {
     public static void main(String[] args) {
 
