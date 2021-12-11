@@ -12,4 +12,9 @@ public class mathsCode {
         System.out.println("The Result is : " + result2);
     }
 
+    public static void divideNumbers(int num1, int num2) {
+        int result3 = num1 / num2;
+        System.out.println("The Result is : " + result3);
+    }
+
 }

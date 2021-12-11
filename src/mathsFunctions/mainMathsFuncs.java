@@ -7,5 +7,6 @@ public class mainMathsFuncs {
 
         mathsCode.addNumbers(10, 29);
         mathsCode.deductNumbers(40, 21);
+        mathsCode.divideNumbers(20, 10);
     }
 }
