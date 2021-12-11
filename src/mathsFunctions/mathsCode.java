@@ -17,4 +17,8 @@ public class mathsCode {
         System.out.println("The Result is : " + result3);
     }
 
+    public static void multiplyNumbers(int i, int i1) {
+        int result4 = i * i1;
+        System.out.println("The Result is : " + result4);
+    }
 }
